@@ -1,7 +1,7 @@
 ID,Text,Comment
-LV.AC.AirlockChamber,"Airlock Chamber",
-LV.AC.AirlockChamberDesc,"Block water but allow two-way passage.",
-LV.AC.AirlockChamberFlavor,"Reverse-engineered from a submerged vault labeled 'Do Not Open When Wet'",
-LV.AC.AirlockChamber4,"6-way Airlock Chamber",
-LV.AC.AirlockChamber4Desc,"Block water but allow six-way passage.",
-LV.AC.AirlockChamber4Flavor,"Schröbeaver principle: path and puddle states collapse only when you peek.",
+LV.AC.AirlockChamber,"Cambra d'aire",
+LV.AC.AirlockChamberDesc,"Bloqueja l'aigua però permet el pas en ambdues direccions.",
+LV.AC.AirlockChamberFlavor,"Enginyeria inversa d'una volta submergida etiquetada com 'No obrir quan està mullat'",
+LV.AC.AirlockChamber4,"Cambra d'aire de 6 vies",
+LV.AC.AirlockChamber4Desc,"Bloqueja l'aigua però permet el pas en sis direccions.",
+LV.AC.AirlockChamber4Flavor,"Principi Schröbeaver: els estats de camí i bassal col·lapsen només quan mires."
