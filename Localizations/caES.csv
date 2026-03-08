@@ -62,11 +62,11 @@ Beaver.Child.TemplateName,Castor jove,
 Beaver.DeadNameSuffix,(mort),Preceded by beaver name and age
 Beaver.DiedOldAge,{0} ha mort de vell.,{0} stands for beaver name
 Beaver.Employment,Ocupació,Header of a section that tells of how many and where beavers are working
-Beaver.GrewUp,{0} ha crescut.,{0} stands for beaver name. A notification that a beaver achieved maturity.
+Beaver.GrewUp,{0} s'ha fet gran.,{0} stands for beaver name. A notification that a beaver achieved maturity.
 Beaver.Homeless,Sense llar,Signifies that the beaver has no home
 Beaver.HomelessPlural,Sense llar,Label before number of homeless beavers
 Beaver.House,Viu a: {0},{0} stands for Building.DisplayName. Tells which type of building the beaver resides in.
-Beaver.Launched,S'ha llançat {0}.,{0} stands for beaver name. A notification that a beaver has been launched in a plane.
+Beaver.Launched,{0} s'ha enlairat.,{0} stands for beaver name. A notification that a beaver has been launched in a plane.
 Beaver.PluralDisplayName,Castors,
 Beaver.Population.Adults,Adults,Label before number of adult beavers
 Beaver.Population.Children,Joves,Label before number of kit beavers
@@ -260,7 +260,7 @@ Building.DoubleDynamite.DisplayName,Dinamita doble,Dynamite that makes 2 blocks 
 Building.DoubleFloodgate.DisplayName,Comporta doble,
 Building.DoubleFloodgate.FlavorDescription,Com pots millorar la perfecció? Fent-la més alta.,
 Building.DoubleLodge.Description,Un allotjament més gran que hi pot encabir més castors.,
-Building.DoubleLodge.DisplayName,Allotjament doble,This lodge fits twice as many beavers
+Building.DoubleLodge.DisplayName,Casa doble,This lodge fits twice as many beavers
 Building.DoubleLodge.FlavorDescription,"Com més serem, més riurem.",This lodge fits twice as many beavers as a standard one
 Building.DoublePlatform.DisplayName,Plataforma doble,Double meaning twice as tall.
 Building.DoublePlatform.FlavorDescription,"El doble d'alçada, la mateixa solidesa de sempre.",
@@ -326,7 +326,7 @@ Building.FoodFactory.Description,Processa ingredients per produir racions d'alim
 Building.FoodFactory.DisplayName,Fàbrica d'aliments,A factory building that literally produces food.
 Building.FoodFactory.FlavorDescription,"Abans d'això, fer un mos ràpid a la feina sovint acabava en danys estructurals.",A hungry beaver may take a bite of a [wooden] construction it's working on.
 Building.Forester.Description,Planta arbres i arbustos.,
-Building.Forester.DisplayName,Forestador,A building with a worker that plants trees and bushes
+Building.Forester.DisplayName,Guarda forestal,A building with a worker that plants trees and bushes
 Building.Forester.FlavorDescription,"Valents i brillants, els forestals són el nucli de la societat castora.","Forresters are a family of central characters in ""Bold and Beautiful"", an extremely long-running American soap opera. Feel free to adapt this flavor, do not translate that literally."
 Building.FountainOfJoy.DisplayName,Font de l'alegria,A large water fountain with statues on top.
 Building.FountainOfJoy.FlavorDescription,No és un malbaratament si et fa feliç.,Water is a very preciuos resource in Timberborn - fountains could be seen as a waste.
@@ -439,11 +439,11 @@ Building.Lever.SpringReturn,Retorn per molla,"Keep short. Checkbox label - when 
 Building.Lever.SwitchOff,Apaga,Button label.
 Building.Lever.SwitchOn,Encén,Button label.
 Building.Lido.Description,Un lloc perfecte per relaxar-se al costat del riu.,
-Building.Lido.DisplayName,Lido,Lido as in a swimming pool. Built on a river bank and used to relax. Includes a swimming area and a small land area with a few lawn chairs.
+Building.Lido.DisplayName,Piscina fluvial,Lido as in a swimming pool. Built on a river bank and used to relax. Includes a swimming area and a small land area with a few lawn chairs.
 Building.Lido.FlavorDescription,"Per celebrar el primer bany dels cadells, els castors fan una festa a la piscina.",Kits are young beavers.
 Building.Lodge.Description,Un lloc on passar la nit.,
-Building.Lodge.DisplayName,Lògia,Type of housing; named after the beaver lodges
-Building.Lodge.FlavorDescription,"""Antigament una lògia era només una lògia. I ara? No ho sé pas."" —Ma' Ngonel",
+Building.Lodge.DisplayName,Casa,Type of housing; named after the beaver lodges
+Building.Lodge.FlavorDescription,"""Antigament una casa era això, una casa. I ara? No ho tinc tan clar."" —Ma' Ngonel",
 Building.LumberMill.Description,Fabrica taulons a partir de troncs.,Planks and Logs are resources so this needs to be consistent with their name
 Building.LumberMill.DisplayName,Serradora,
 Building.LumberMill.FlavorDescription,"Amb l'empenta d'Ol' Kazko, el processament mecanitzat de fusta va fer grinyolar moltes dents entre els castors més grans.","Ol' Kazko is a legendary forefather of modern beavers, famous inventor, pioneer of rapid industrialization."
@@ -486,8 +486,8 @@ Building.Metalsmith.FlavorDescription,"""Si vols que duri, fes-ho de metall. Aix
 Building.Mine.Description,Dóna feina a miners que extreuen ferralla de les Ruïnes subterrànies.,"Underground Ruins is a building, same as Building.Underground Ruins.DisplayName"
 Building.Mine.DisplayName,Mina,An extracting facility which can be placed on underground ruins.
 Building.Mine.FlavorDescription,No existeix això d'excavar massa endins o amb massa ambició.,"The mine provides an endless supply of scrap metal. Reference to 'they delved too greedily and too deep, and disturbed that from which they fled, Durin's Bane' from LOTR"
-Building.MiniLodge.Description,Una lògia petita per a un únic castor.,
-Building.MiniLodge.DisplayName,Mini lògia,A small lodge for only one beaver
+Building.MiniLodge.Description,Un habitatge petit per a un únic castor.,
+Building.MiniLodge.DisplayName,Mini casa,A small lodge for only one beaver
 Building.MiniLodge.FlavorDescription,Un també està bé.,Referencing 'Two Beavers Are Better Than One' meme-song from 'How I Met Your Mother' TV show.
 Building.Motivatorium.Description,Un teatre mecànic que ensenya els valors fonamentals dels Dents de Ferro.,Iron Teeth must be the same as Faction.IronTeeth.DisplayName.
 Building.Motivatorium.DisplayName,Motivatori,
@@ -737,7 +737,7 @@ Building.TripleDynamite.DisplayName,Dinamita triple,Dynamite that makes 3 blocks
 Building.TripleFloodgate.DisplayName,Comporta triple,
 Building.TripleFloodgate.FlavorDescription,Més alta i l'aigua ja seria massa pesada per contenir-la.,
 Building.TripleLodge.Description,Allotja una gran quantitat de castors.,Houses thrice the amounts of beavers as normal lodge
-Building.TripleLodge.DisplayName,Allotjament triple,
+Building.TripleLodge.DisplayName,Casa triple,
 Building.TripleLodge.FlavorDescription,"""Creixeu i multipliqueu-vos"" és una dita que els Cuesfusta es prenen seriosament.",Go Forth and multiply is a biblical quote.
 Building.TriplePlatform.DisplayName,Plataforma triple,Triple as triple the height of a normal platform
 Building.TriplePlatform.FlavorDescription,Rosegar pals està estrictament prohibit!,
@@ -934,7 +934,7 @@ Districts.GlobalView,Vista global,
 Duplication.DuplicateSettingsToolDescription,Selecciona un objectiu on enganxar la configuració,Description of a tool which copies configuration from one building to another
 Dwelling.Dwellers,Residents,Header for the box of the inhabitants/tenants of this house
 Dwelling.Inhabitants,Habitants: {0},{0} stands for a number. How many beavers live in this house.
-Dwelling.Newborn,Ha nascut {0}!,{0} stands for beaver name. Notification that shows when a new beaver is born.
+Dwelling.Newborn,Ha nascut en {0}!,{0} stands for beaver name. Notification that shows when a new beaver is born.
 Dwelling.NoBeaverCanReach,Cap castor no pot arribar a aquest habitatge.,Information that this building is unreachable for any beavers.
 Dwelling.NoUnemployedCanReach,Cap castor aturat no pot arribar a aquest habitatge.,Information that this building is unreachable for any unemployed beavers.
 Dwellings.FreeBeds,Llits lliures,Label before number of unoccupied beds
@@ -1640,7 +1640,7 @@ NewGameMapPanel.SubHeader,Seleccionar Mapa,
 NewMapPanel.Header,Crear nou mapa,
 Planting.NoPriorityOption,Cap,No resource is prioritized
 Planting.Prioritize,Recurs prioritzat,Which resource to prioritize when planting.
-Planting.ReplantDeadTrees,Torna a plantar els arbres morts no marcats per tallar,Label of toggle in forester panel fragment
+Planting.ReplantDeadTrees,Torna a plantar els arbres morts no marcats per talar,Label of toggle in forester panel fragment
 Planting.UnlockPrompt,Has de desbloquejar {0} per plantar {1}.,{0} stands for Building.DisplayName {1} stands for NaturalResource.DisplayName.
 PlantingTool.Description,Fes servir aquesta eina per designar una àrea de plantació.,
 PlantingTool.RequiredBuilding,Edifici necessari: {0},{0} stands for Building.DisplayName.
@@ -1922,7 +1922,7 @@ ToolGroups.Priority,Assignar prioritats,This is in active voice
 ToolGroups.Ruins,Ruins,Group for different types of ruin objects
 ToolGroups.Science,Ciència,Buildings that produce Science points
 ToolGroups.Storage,Emmagatzematge,Buildings that store goods and resources
-ToolGroups.TreeCutting,Tallar arbres,This is in active voice
+ToolGroups.TreeCutting,Talar arbres,This is in active voice
 ToolGroups.Water,Aigua,Buildings that gather and store water.
 ToolGroups.Wood,Fusta,Buildings that allow gathering and producing using wood
 TopBar.Badwater,Aigua tòxica,A group of goods. Please keep short.
@@ -1950,10 +1950,10 @@ Tutorial.Basics,Bàsics,Header of the tutorial section that covers the basic con
 Tutorial.Basics.ManagePause,"Pots posar el joc en pausa en qualsevol moment, cosa que t'ajuda a avaluar la situació i planificar.",
 Tutorial.Basics.ManageSpeed,"També pots augmentar la velocitat del joc per reduir els temps morts mentre els castors treballen o dormen.",
 Tutorial.Basics.MoveCamera,"Primer fem una ullada a la zona.",
-Tutorial.Basics.MoveCameraDown,Move camera backward,
+Tutorial.Basics.MoveCameraDown,Mou la càmera cap avall,
 Tutorial.Basics.MoveCameraLeft,Mou la càmera a l'esquerra,
 Tutorial.Basics.MoveCameraRight,Mou la càmera a la dreta,
-Tutorial.Basics.MoveCameraUp,Moure càmera endavant,
+Tutorial.Basics.MoveCameraUp,Mou la càmera cap amunt,
 Tutorial.Basics.Pause,Pausa,
 Tutorial.Basics.RotateCamera,"Ara, gira la vista.",
 Tutorial.Basics.RotateCameraLeft,Gira la càmera a l'esquerra,
@@ -1983,7 +1983,7 @@ Les sequeres formen part del cicle estacional. Tornaran i s'allargaran amb el te
 Tutorial.Forestry,Silvicultura,
 Tutorial.Forestry.Forester,"Els castors necessiten una font estable de troncs. És evident.
 
-Fent servir punts de ciència produïts pel teu inventor, desbloqueja el forestador. Després construeix-lo en una zona on vulguis plantar arbres.","Logs is the same as Good.Log.PluralDisplayName, Inventor is the same as Building.Inventor.DisplayName, Science Points is the same as Science.SciencePoints, Forester is the same as Building.Forester.DisplayName"
+Fent servir punts de ciència produïts pel teu inventor, desbloqueja el guarda forestal. Després construeix-lo en una zona on vulguis plantar arbres.","Logs is the same as Good.Log.PluralDisplayName, Inventor is the same as Building.Inventor.DisplayName, Science Points is the same as Science.SciencePoints, Forester is the same as Building.Forester.DisplayName"
 Tutorial.Forestry.MarkBirchesForPlanting,"Fes servir l'eina Planta arbres i arbustos per plantar alguns bedolls. Creixen ràpidament, cosa que els fa una bona opció en un assentament incipient.
 
 Igual que els cultius, els arbres només creixen en zones irrigades i verdes.
@@ -2005,7 +2005,7 @@ Tutorial.HaulersAndWorkforce.PauseHaulingPost,"Pots posar edificis i obres en pa
 Per exemple, els llocs de treball en pausa es buiden automàticament i els treballadors es reassignen a altres llocs disponibles.
 
 Selecciona la Barraca de transportistes i posa-la en pausa fent clic al botó del seu panell.",Hauling Post refers to Building.HaulingPost.DisplayName
-Tutorial.Housing,Habitatge,"Tutorial title, housing should be the same as ToolGroups.Housing"
+Tutorial.Housing,Habitatges,"Tutorial title, housing should be the same as ToolGroups.Housing"
 Tutorial.Housing.Lodges,"Dos castors són millor que un! Les cases milloren el benestar dels teus castors i permeten que la població de cuesfusta creixi.
 
 Els castors s'assignen automàticament als espais d'habitatge disponibles.",Folktails is the same as faction as Faction.Folktails.DisplayName
@@ -2022,7 +2022,7 @@ Tutorial.LayerTool.ChangeUsingUI,"A mesura que el teu assentament creix en verti
 
 L'eina de capes ajuda amb això amagant tot el que hi ha per sobre de la capa seleccionada.
 
-Canviem la capa visible fent clic als botons ressaltats.",
+Canvia la capa visible fent clic als botons ressaltats.",
 Tutorial.LayerTool.Decrease,Baixa la capa visible a 0,
 Tutorial.LayerTool.Increase,Puja la capa visible,
 Tutorial.LayerTool,Eina de capes,"Tutorial title, Layer tool naming must be consistent with the usage in the rest of the game"
@@ -2031,15 +2031,15 @@ Tutorial.MarkPlantables,Planta: {0} ({1}/{2}),"{0} stands for resource name {1} 
 Tutorial.MarkTrees,Marca arbres per talar.,
 Tutorial.MoreBeavers,Més castors,Tutorial title
 Tutorial.MoreBeavers.BeaverBirth,Tenir un cadell,If there's no special name for beaver children in your language use 'have a child'.
-Tutorial.MoreBeavers.GrowPopulation,"Els castors no es reprodueixen si no hi ha espais d'habitatge lliures. Les cuesfusta necessiten dos adults i un espai lliure perquè passi la màgia.","The Tip is optional if there's no special name for beaver children in your language. If that's the case, remove this part."
+Tutorial.MoreBeavers.GrowPopulation,"Els castors no es reprodueixen si no hi ha espais d'habitatge lliures. Els cuesfusta necessiten dos adults i un espai lliure perquè passi la màgia.","The Tip is optional if there's no special name for beaver children in your language. If that's the case, remove this part."
 Tutorial.PauseBuilding,Pausa: {0},{0} stands for building name
 Tutorial.PlaceBuilding,Col·loca: {0} ({1}/{2}),"{0} stands for building name {1} stands for number of built buildings {2} stands for number of buildings to build. This is used in a goal description with the verb in active voice, for example 'Place: Warehouse (0/5)'."
-Tutorial.PowerAndPlanks,Energia and planks,
+Tutorial.PowerAndPlanks,Energia i taulons,
 Tutorial.PowerAndPlanks.LumberMill,"És hora de començar a produir Taulons!
 
 Construeix una Serradora just al costat de la Roda d'aigua. També la pots construir més lluny i connectar-la a la Roda d'aigua amb Eixos d'energia.
 
-Consell: Molts edificis, com les Serradores i els Allotjaments, transmeten energia entre si quan es col·loquen paret amb paret. No calen Eixos d'energia!","Planks is the same as Good.Plank.PluralDisplayName, LumberMill is the same as Building.LumberMill.DisplayName, Water Wheel is the same as Building.WaterWheel.DisplayName, Power Shafts is the same as Building.PowerShaft.DisplayName, Lodge is the same as Building.Lodge.DisplayName"
+Consell: Molts edificis, com les Serradores i les Cases, transmeten energia entre si quan es col·loquen paret amb paret. No calen Eixos d'energia!","Planks is the same as Good.Plank.PluralDisplayName, LumberMill is the same as Building.LumberMill.DisplayName, Water Wheel is the same as Building.WaterWheel.DisplayName, Power Shafts is the same as Building.PowerShaft.DisplayName, Lodge is the same as Building.Lodge.DisplayName"
 Tutorial.PowerAndPlanks.WaterWheel,"Els edificis més avançats necessiten energia, i als castors els agrada que la seva energia vingui del riu.
 
 Col·loca una Roda d'aigua en aigua corrent a la vora del riu.",Water Wheel is the same as Building.WaterWheel.DisplayName
@@ -2071,13 +2071,13 @@ Tutorial.UnpauseBuilding,Reprèn: {0},{0} stands for building name
 Tutorial.VerticalArchitecture,Arquitectura vertical,Tutorial title
 Tutorial.VerticalArchitecture.BuildRooftopTerrace,"A l'erm, és important optimitzar l'ús de l'espai. Els castors ho fan fent créixer les seves ciutats en vertical.
 
-Alguns edificis, com els Allotjaments, tenen teulades planes que poden suportar altres estructures.
+Alguns edificis, com les Cases, tenen teulades planes que poden suportar altres estructures.
 
 Construïm ara una Terrassa al terrat. Potser hauràs d'utilitzar Escales per connectar-la amb el districte.","Lodges refers to Building.Lodge.DisplayName, Rooftop Terrace refers to Building.RooftopTerrace.DisplayName"
 Tutorial.WaterAndFood,Aigua i aliment,
-Tutorial.WaterAndFood.Farmhouse,"A llarg termini necessitem alguna cosa més nutritiva. Construeix una Masia per plantar i collir cultius.
+Tutorial.WaterAndFood.Farmhouse,"A llarg termini necessitem alguna cosa més nutritiva. Construeix una Granja per plantar i collir cultius.
 
-Igual que les banderes, una masia té un abast limitat.
+Igual que les banderes, una granja té un abast limitat.
 
 Consell: Si et falten treballadors, pots posar alguns edificis en pausa. Per fer-ho, selecciona un edifici i prem el botó de pausa.",Farmhouse is the same as in Building.Farmhouse.DisplayName
 Tutorial.WaterAndFood.Gatherer,"A més d'aigua, els castors necessiten menjar.
@@ -2122,7 +2122,7 @@ Construeix Camins per connectar les Banderes de llenyataire amb el Centre de dis
 Tutorial.Wood.FinishLumberjacks,"Les Banderes no es construiran si estan fora de l'abast de construcció del districte.
 
 Selecciona el Centre de districte per veure el seu abast de construcció. Pots ampliar-lo connectant Camins a l'entrada del Centre de districte.","Flags referers to Lumberjack Flag as in Building.LumberjackFlag.DisplayName, District Center is the same as Building.DistrictCenter.DisplayName, Paths refers to Building.Path.DisplayName"
-Tutorial.Wood.MarkTrees,"Els llenyataires només talen arbres a les zones que marques per tallar.
+Tutorial.Wood.MarkTrees,"Els llenyataires només talen arbres a les zones que marques per talar.
 
 Els arbres han d'estar dins l'abast d'una Bandera de llenyataire. Selecciona una bandera per veure'n l'abast.
 
