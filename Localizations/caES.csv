@@ -377,7 +377,7 @@ Building.HttpAdapter.Status.OK,OK,
 Building.HttpAdapter.Url,URL,
 Building.HttpAdapter.WebhookWhenSwitchedOff,Cridar quan s'apaga,This is followed by a URL field which is called when the object is switched off.
 Building.HttpAdapter.WebhookWhenSwitchedOn,Cridar quan s'encén,This is followed by a URL field which is called when the object is switched on.
-Building.HttpLever.Description,Una palanca controlada per API. Els humans en van deixar un munt escampades.,This is the description of a buildings which is called 'HTTP Server' and the first sentence is about humans who left a lot of servers lying around.
+Building.HttpLever.Description,Una palanca controlada per API. Els humans en van deixar un munt d'escampades.,This is the description of a buildings which is called 'HTTP Server' and the first sentence is about humans who left a lot of servers lying around.
 Building.HttpLever.DisplayName,Palanca HTTP,A lever which can be controlled by API. It is an upgraded version of the normal Lever (Building.Lever.DisplayName) so the names should correspond to each other.
 Building.HttpLever.SwitchOffUrl,URL d'apagada,An API URL which switches off this object.
 Building.HttpLever.SwitchOnUrl,URL d'encesa,An API URL which switches on this object.
