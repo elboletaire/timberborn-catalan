@@ -635,7 +635,7 @@ Building.Shower.FlavorDescription,Fa més suportable conquerir l'erm.,
 Building.Shrub.DisplayName,Arbust,Must be different than 'Bush' which is a plant in the game
 Building.Shrub.FlavorDescription,"Per mantenir-ho pràctic, les decoracions han de ser boniques i també gustoses.",
 Building.Slope.DisplayName,Pendent,
-Building.Slope.FlavorDescription,"Qui ho hagi posat aquí, els castors n'estan agraïts.",
+Building.Slope.FlavorDescription,"Sigui qui sigui qui ho posés aquí, els castors li ho agraeixen.",
 Building.Sluice.AboveContaminationToggle,Tanca per sobre de contaminació: {0},"Label of a toggle that enables automation based on contamination level, {0} stands for currently set level, ie 5%"
 Building.Sluice.BelowContaminationToggle,Tanca per sota de contaminació: {0},"Label of a toggle that enables automation based on contamination level, {0} stands for currently set level, ie 5%"
 Building.Sluice.Contamination,Contaminació: {0},"Level of the water contamination, {0} stands for contamination level in percent. Ideally all uses of the word contaminate/contamination/contaminated should be uniform across the project."
