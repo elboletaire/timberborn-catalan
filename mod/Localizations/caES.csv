@@ -1539,21 +1539,21 @@ NaturalResource.Pine.DisplayName,Pi,Tree of the genus Pinus
 NaturalResource.Pine.FlavorDescription,"""Oh, bosc majestuós, com t'enyoro!"" —Poeta castor desconegut","""Pine"" pun, feel free to adapt."
 NaturalResource.Potato.DisplayName,Patata,Plant Solanum tuberosum
 NaturalResource.Potato.FlavorDescription,"""Hi ha més d'una manera de cuinar una patata."" —Proverbi castor",
-NaturalResources.Seedling,(seedling),This is shown under NaturalResource.DisplayName. Not fully grown plant.
-NaturalResource.Soybean.DisplayName,Soybean,Should be consistent with Good.Soybean.DisplayName
-NaturalResource.Soybean.FlavorDescription,"Hard and water-resistant, its seeds are perfect toys for kits.",
+NaturalResources.Seedling,(plantó),This is shown under NaturalResource.DisplayName. Not fully grown plant.
+NaturalResource.Soybean.DisplayName,Soja,Should be consistent with Good.Soybean.DisplayName
+NaturalResource.Soybean.FlavorDescription,"Dures i resistents a l'aigua, les seves llavors són joguines perfectes per als cadells.",
 NaturalResource.Spadderdock.DisplayName,Nenúfar groc,Plant Nuphar Lutea
-NaturalResource.Spadderdock.FlavorDescription,The nature sends its message through the leaves' shape.,"Spadderdock has heart-shaped leaves, and it can be seen in the game."
-NaturalResource.Sunflower.DisplayName,Sunflower,
-NaturalResource.Sunflower.FlavorDescription,Beavers grow these to show they're not afraid of the burning sun.,It's a reference to drought being the main threat in the game.
-NaturalResource.Wheat.DisplayName,Wheat,Plant Triticum aestivum
-NaturalResource.Wheat.FlavorDescription,"""You'll forget the sun in the cloudless sky as we walk in fields of gold."" —Beaver ballad","Adapted from ""Fields of Gold"" by Sting."
-NaturalResources.Aquatic,<YellowHighlight>Aquatic</YellowHighlight>: must be partially submerged in water.,Aquatic is a keyword. Shown after selecting an aquatic plant. Examples of aquatic plants include spadderdock or water lilies.
-NaturalResources.DaysToDie,Dies in: {0} days,"Shown when natural resource is dying (from any reason), {0} stands for number of days left to die"
-NaturalResources.DiedFromContamination,Died from contamination.,Shown when a plant died after being contaminated for too long. Ideally all uses of the word contaminate/contamination/contaminated should be uniform across the project. Please keep short.
-NaturalResources.DiedFromNotEnoughWater,Died from not being submerged.,Shown when a water plant died after not being submerged in water for too long. Please keep short.
-NaturalResources.DiedFromTooMuchWater,Died from flooding.,Shown when a plant died after it had been submerged in water for too long. Please keep short.
-NaturalResources.Dried,Died from drying out.,Shown for plants which died from lack of water. Please keep short.
+NaturalResource.Spadderdock.FlavorDescription,La natura envia el seu missatge a través de la forma de les fulles.,"Spadderdock has heart-shaped leaves, and it can be seen in the game."
+NaturalResource.Sunflower.DisplayName,Gira-sol,
+NaturalResource.Sunflower.FlavorDescription,Els castors els planten per demostrar que no tenen por del sol abrasador.,It's a reference to drought being the main threat in the game.
+NaturalResource.Wheat.DisplayName,Blat,Plant Triticum aestivum
+NaturalResource.Wheat.FlavorDescription,"""Oblidaràs el sol al cel sense núvols mentre caminem per camps d'or."" —balada de castor","Adapted from ""Fields of Gold"" by Sting."
+NaturalResources.Aquatic,<YellowHighlight>Aquàtica</YellowHighlight>: ha d'estar parcialment submergida a l'aigua.,Aquatic is a keyword. Shown after selecting an aquatic plant. Examples of aquatic plants include spadderdock or water lilies.
+NaturalResources.DaysToDie,Mor d'aquí a: {0} dies,"Shown when natural resource is dying (from any reason), {0} stands for number of days left to die"
+NaturalResources.DiedFromContamination,Ha mort per contaminació.,Shown when a plant died after being contaminated for too long. Ideally all uses of the word contaminate/contamination/contaminated should be uniform across the project. Please keep short.
+NaturalResources.DiedFromNotEnoughWater,Ha mort per no estar submergida.,Shown when a water plant died after not being submerged in water for too long. Please keep short.
+NaturalResources.DiedFromTooMuchWater,Ha mort per inundació.,Shown when a plant died after it had been submerged in water for too long. Please keep short.
+NaturalResources.Dried,Ha mort per dessecació.,Shown for plants which died from lack of water. Please keep short.
 NaturalResources.DroughtResistance,Resistència a la sequera: {0} dies,The number of days a plant can survive in a drought.
 NaturalResources.GenericDied,Ha mort.,Refers to a plant.
 NaturalResources.Healthy,Està regada i saludable.,Shown when plant is healthy and has no problems with growth
@@ -1857,34 +1857,34 @@ SteamWorkshop.ShowWorkshopItem,Obre in Steam Workshop,Label of the button that o
 SteamWorkshop.SteamMapTooltip,Steam Workshop map,Tooltip on the map icon that indicates that the map is from Steam Workshop.
 SteamWorkshop.Tags,Tags,Label of the list of tags in Steam Workshop that user can set. It should be translated the same way as Steam is translating it: https://partner.steamgames.com/doc/features/workshop/tags
 SteamWorkshop.Update,Actualitza,Label of the checkbox that determines whether certain elements of the item to be uploaded to Steam Workshop should be updated.
-SteamWorkshop.UploadAsNew,Puja as new,Label of the checkbox that determines whether the item to be uploaded to Steam Workshop should be uploaded as a new item or as an update to an existing item.
+SteamWorkshop.UploadAsNew,Puja com a nou,Label of the checkbox that determines whether the item to be uploaded to Steam Workshop should be uploaded as a new item or as an update to an existing item.
 SteamWorkshop.UploadButton,Puja,Text on the button that starts uploading the item to Steam Workshop.
-SteamWorkshop.UploadFailed,Puja failed with Steam error code: {0},"Message that is shown when an item could not be uploaded to Steam Workshop. {0} is the error code, for example ""k_EResultAccessDenied (15)"""
-SteamWorkshop.UploadHeader,Puja to Steam Workshop,Header of the panel that allows uploading items to Steam Workshop.
-SteamWorkshop.UploadProgress,Uploading: {0},Message that is shown when an item is being uploaded to Steam Workshop. {0} stands for percentage value of the upload progress. Please keep short.
-SteamWorkshop.UploadSuccess,Your content has been uploaded!,Message that is shown when an item has been successfully uploaded to Steam Workshop.
-SteamWorkshop.UploadToSteamWorkshop,Puja to Steam Workshop,Label of a button that uploads a mod to Steam Workshop.
-SteamWorkshop.Visibility,Visibility,Label of the dropdown that allows selecting the visibility of the item to be uploaded to Steam Workshop.
-SteamWorkshop.Visibility.Friends,Friends only,Option in the dropdown that allows selecting the visibility of the item to be uploaded to Steam Workshop.
-SteamWorkshop.Visibility.Private,Private,Option in the dropdown that allows selecting the visibility of the item to be uploaded to Steam Workshop.
-SteamWorkshop.Visibility.Public,Public,Option in the dropdown that allows selecting the visibility of the item to be uploaded to Steam Workshop.
-SteamWorkshop.Visibility.Unlisted,Unlisted,Option in the dropdown that allows selecting the visibility of the item to be uploaded to Steam Workshop.
-StockpilePriority.Accept,Accept,"Please keep short. Defines a state of a warehouse, where it accepts goods if needed"
-StockpilePriority.Accept.Long,Accept goods.,"Describes a state of a warehouse, where it accepts goods if needed"
-StockpilePriority.Empty,Empty,"Please keep short. Defines a state of a warehouse, where it is going to be emptied"
-StockpilePriority.Empty.Long,Empty goods to other warehouses.,"Describes a state of a warehouse, where it is going to be emptied"
-StockpilePriority.Obtain,Obtain,"Please keep short. Defines a state of a warehouse, where it is going to be actively filled"
-StockpilePriority.Obtain.Long,Obtain goods from other warehouses.,"Describes a state of a warehouse, where it is going to be actively filled"
-StockpilePriority.Supply,Supply,"Please keep short. Defines a state of a warehouse, where it accepts goods, but haulers will move them to other warehouses if able"
-StockpilePriority.Supply.Long,Supply goods to other warehouses.,"Defines a state of a warehouse, where it accepts goods, but haulers will move them to other warehouses if able"
-TerrainPhysicsPostLoader.TerrainHasNoSupport,Terrain had invalid support and was deleted.,Warning shown when loaded terrain has invalid physical support
-Thumbnail.NoPreview,No preview,Text shown with default thumbnail when the selected map or save has no preview image
-TimedComponentActivator.CountdownNotActive,Dormant,Text shown in entity panel when count down is not active for entity.
-TimedComponentActivator.CyclesUntilCountdownActivation,Countdown activation cycle,Label for input field shown in entity panel in editor. Allows to set a cycle number in which count down will start.
-TimedComponentActivator.DaysUntilActivationLoc,Countdown duration in days,Label for input field shown in entity panel in editor. Allows to set a number of days until activation.
-TimedComponentActivator.DaysUntilActivationProgress,Activates in: {0} days,Text shown in entity panel during gameplay when count down is active. Informs abount time left until activation.
-TimedComponentActivator.DaysUntilExplosionProgress,Explodes in: {0} days,Text shown in entity panel during gameplay when count down is active. Informs abount time left until activation.
-TimedComponentActivator.IsEnabledToggle,Delayed activation,Label for toggle in entity panel in editor. Allows to enable or disable time activation.
+SteamWorkshop.UploadFailed,Ha fallat la pujada amb l'error d'Steam: {0},"Message that is shown when an item could not be uploaded to Steam Workshop. {0} is the error code, for example ""k_EResultAccessDenied (15)"""
+SteamWorkshop.UploadHeader,Puja a Steam Workshop,Header of the panel that allows uploading items to Steam Workshop.
+SteamWorkshop.UploadProgress,Pujant: {0},Message that is shown when an item is being uploaded to Steam Workshop. {0} stands for percentage value of the upload progress. Please keep short.
+SteamWorkshop.UploadSuccess,El teu contingut ha estat pujat!,Message that is shown when an item has been successfully uploaded to Steam Workshop.
+SteamWorkshop.UploadToSteamWorkshop,Puja a Steam Workshop,Label of a button that uploads a mod to Steam Workshop.
+SteamWorkshop.Visibility,Visibilitat,Label of the dropdown that allows selecting the visibility of the item to be uploaded to Steam Workshop.
+SteamWorkshop.Visibility.Friends,Només amics,Option in the dropdown that allows selecting the visibility of the item to be uploaded to Steam Workshop.
+SteamWorkshop.Visibility.Private,Privat,Option in the dropdown that allows selecting the visibility of the item to be uploaded to Steam Workshop.
+SteamWorkshop.Visibility.Public,Públic,Option in the dropdown that allows selecting the visibility of the item to be uploaded to Steam Workshop.
+SteamWorkshop.Visibility.Unlisted,No llistat,Option in the dropdown that allows selecting the visibility of the item to be uploaded to Steam Workshop.
+StockpilePriority.Accept,Acceptar,"Please keep short. Defines a state of a warehouse, where it accepts goods if needed"
+StockpilePriority.Accept.Long,Accepta béns.,"Describes a state of a warehouse, where it accepts goods if needed"
+StockpilePriority.Empty,Buida,"Please keep short. Defines a state of a warehouse, where it is going to be emptied"
+StockpilePriority.Empty.Long,Buida els béns cap a altres magatzems.,"Describes a state of a warehouse, where it is going to be emptied"
+StockpilePriority.Obtain,Obtén,"Please keep short. Defines a state of a warehouse, where it is going to be actively filled"
+StockpilePriority.Obtain.Long,Obtén béns d'altres magatzems.,"Describes a state of a warehouse, where it is going to be actively filled"
+StockpilePriority.Supply,Subministra,"Please keep short. Defines a state of a warehouse, where it accepts goods, but haulers will move them to other warehouses if able"
+StockpilePriority.Supply.Long,Subministra béns a altres magatzems.,"Defines a state of a warehouse, where it accepts goods, but haulers will move them to other warehouses if able"
+TerrainPhysicsPostLoader.TerrainHasNoSupport,El terreny tenia suport invàlid i s'ha eliminat.,Warning shown when loaded terrain has invalid physical support
+Thumbnail.NoPreview,Sense vista prèvia,Text shown with default thumbnail when the selected map or save has no preview image
+TimedComponentActivator.CountdownNotActive,Inactiu,Text shown in entity panel when count down is not active for entity.
+TimedComponentActivator.CyclesUntilCountdownActivation,Cicle d'activació del compte enrere,Label for input field shown in entity panel in editor. Allows to set a cycle number in which count down will start.
+TimedComponentActivator.DaysUntilActivationLoc,Durada del compte enrere en dies,Label for input field shown in entity panel in editor. Allows to set a number of days until activation.
+TimedComponentActivator.DaysUntilActivationProgress,S'activa d'aquí a: {0} dies,Text shown in entity panel during gameplay when count down is active. Informs abount time left until activation.
+TimedComponentActivator.DaysUntilExplosionProgress,Explota d'aquí a: {0} dies,Text shown in entity panel during gameplay when count down is active. Informs abount time left until activation.
+TimedComponentActivator.IsEnabledToggle,Activació retardada,Label for toggle in entity panel in editor. Allows to enable or disable time activation.
 Tip.Common.KeyBindings,"Consell: Utilitza les tecles d'accés ràpid per realitzar certes accions més ràpidament, com eliminar o duplicar un edifici. Pots trobar la llista completa a Opcions.",Tip on the loading screen.
 Tip.Common.LayerTool,Consell: Utilitza l'eina <YellowHighlight>Capes</YellowHighlight> per veure sota el terreny i els edificis.,Tip on the loading screen. Layer tool naming must be consistent with the usage of those terms in the rest of the game.
 Tip.Game.Duplicate,Consell: Utilitza les eines <YellowHighlight>Duplicar</YellowHighlight> i <YellowHighlight>Copiar configuració</YellowHighlight> per crear ràpidament edificis idèntics.,Tip on the loading screen. 'Duplicate' and 'Copy settings' should be the same as in KeyBinding.DuplicateObject and KeyBinding.DuplicateSettings respectively.
