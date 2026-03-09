@@ -1705,47 +1705,47 @@ Settings.Graphics.AntiAliasing.MSAAx8,MSAA x8,Label for MSAA with x8 resolution 
 Settings.Graphics.AntiAliasing.MacMSAAWarning,Això pot causar artefactes en maquinari antic.,Warning message for Mac users about potential artifacts when using MSAA anti-aliasing
 Settings.Graphics.AntiAliasing.SMAA,SMAA,Label for SMAA anti-aliasing option in graphics settings panel
 Settings.Graphics.AntiAliasingQuality,Anti-aliasing,Antialiasing dropdown label in graphics settings panel
-Settings.Graphics.Bloom,Bloom,Label for bloom effect dropdown in graphics settings panel
-Settings.Graphics.Header,Graphics quality,Header for graphics quality section in settings panel
-Settings.Graphics.LightQuality,Additional lights quality,Label for additional lights quality dropdown setting
-Settings.Graphics.OverallGraphicsQuality,Preset,Label for graphics quality dropdown
-Settings.Graphics.Quality.Custom,Custom,Label for custom graphics quality option
-Settings.Graphics.Quality.High,High,Label for high quality graphics option
-Settings.Graphics.Quality.Low,Low,Label for low quality graphics option
-Settings.Graphics.Quality.Medium,Medium,Label for medium quality graphics option
-Settings.Graphics.Quality.Off,Off,"Label for graphics quality option that disables certain graphic effect, please keep short"
-Settings.Graphics.Quality.On,On,"Label for graphics quality option that enables certain graphic effect, please keep short"
+Settings.Graphics.Bloom,Resplendor,Label for bloom effect dropdown in graphics settings panel
+Settings.Graphics.Header,Qualitat gràfica,Header for graphics quality section in settings panel
+Settings.Graphics.LightQuality,Qualitat de les llums addicionals,Label for additional lights quality dropdown setting
+Settings.Graphics.OverallGraphicsQuality,Predefinit,Label for graphics quality dropdown
+Settings.Graphics.Quality.Custom,Personalitzat,Label for custom graphics quality option
+Settings.Graphics.Quality.High,Alta,Label for high quality graphics option
+Settings.Graphics.Quality.Low,Baixa,Label for low quality graphics option
+Settings.Graphics.Quality.Medium,Mitjana,Label for medium quality graphics option
+Settings.Graphics.Quality.Off,No,"Label for graphics quality option that disables certain graphic effect, please keep short"
+Settings.Graphics.Quality.On,Sí,"Label for graphics quality option that enables certain graphic effect, please keep short"
 Settings.Graphics.Quality.Ultra,Ultra,Label for ultra quality graphics option
-Settings.Graphics.ShadowQuality,Shadow quality,Label for shadow quality option
-Settings.Graphics.TextureQuality,Texture quality,Label for texture quality option
-Settings.Graphics.WaterQuality,Aigua quality,"Label for water quality dropdown, used in graphics settings panel"
+Settings.Graphics.ShadowQuality,Qualitat de les ombres,Label for shadow quality option
+Settings.Graphics.TextureQuality,Qualitat de les textures,Label for texture quality option
+Settings.Graphics.WaterQuality,Qualitat de l'aigua,"Label for water quality dropdown, used in graphics settings panel"
 Settings.Header,Configuració,
-Settings.Intro.DisableIntro,Skip intro,Label for setting to skip intro cinematic
-Settings.Input.DragCamera,Camera dragging,
-Settings.Input.EdgePanCamera,Edge scrolling,"When this option is enabled, player can move camera by moving mouse to screen edge"
-Settings.Input.EdgePanCameraSpeed,Edge scrolling speed,
-Settings.Input.Header,Input,
-Settings.Input.InvertZoom,Invert zoom,
-Settings.Input.KeyboardCameraMovementSpeed,Keyboard movement speed,
-Settings.Input.KeyboardCameraRotationSpeed,Keyboard rotation speed,
-Settings.Input.KeyboardCameraZoomSpeed,Keyboard zoom speed,
-Settings.Input.LockCursorInWindow,Lock cursor in window,"When this option is enabled, mouse cursor cannot leave game window / display"
-Settings.Input.MouseCameraRotationSpeed,Mouse rotation speed,Label in settings.
-Settings.Input.MouseWheelCameraZoomSpeed,Mouse wheel zoom speed,Label of a slider for setting the speed of camera zooming with the mouse wheel.
-Settings.Input.OnScreenKeyboard.Auto,Auto,A dropdown item indicating OnScreen Keyboard mode.
-Settings.Input.OnScreenKeyboard.Disabled,Disabled,A dropdown item indicating OnScreen Keyboard mode.
-Settings.Input.OnScreenKeyboard.Enabled,Enabled,A dropdown item indicating OnScreen Keyboard mode.
-Settings.Input.OnscreenKeyboard,Steam Big Picture keyboard:,Label for dropdown indicating OnScreen Keyboard mode
-Settings.Input.SwapMouseCameraMovementWithRotation,Swap camera buttons,"When this option is enabled, the middle mouse button is swapped with the right mouse button"
-Settings.Input.UnlockZoom,Unlimited zoom,Label for setting to unlock zoom limits
-Settings.Language.Change,Change,Please keep short
-Settings.Language.Current,Language:,
-Settings.Language.Restart,Restart now,Please keep short
-Settings.Language.Warning,Changes require game restart.,Warning shown when user changes language
-Settings.Screen.AntiAliasing,Anti-aliasing,Label for anti-aliasing toggle in settings window
-Settings.Screen.Brightness,Brightness,Label for overall brightness level setting in screen settings panel
-Settings.Screen.FrameRateLimit,Frame rate limit,Label of a dropdown for setting a FPS limit. It should probably be left unchanged in most languages.
-Settings.Screen.FrameRateLimit.Unlimited,Unlimited,A dropdown value indicating unlimited frame rate.
+Settings.Intro.DisableIntro,Saltar intro,Label for setting to skip intro cinematic
+Settings.Input.DragCamera,Arrossegar la càmera,
+Settings.Input.EdgePanCamera,Desplaçament per la vora,"When this option is enabled, player can move camera by moving mouse to screen edge"
+Settings.Input.EdgePanCameraSpeed,Velocitat del desplaçament per la vora,
+Settings.Input.Header,Entrada,
+Settings.Input.InvertZoom,Inverteix el zoom,
+Settings.Input.KeyboardCameraMovementSpeed,Velocitat de moviment amb el teclat,
+Settings.Input.KeyboardCameraRotationSpeed,Velocitat de rotació amb el teclat,
+Settings.Input.KeyboardCameraZoomSpeed,Velocitat de zoom amb el teclat,
+Settings.Input.LockCursorInWindow,Bloqueja el cursor a la finestra,"When this option is enabled, mouse cursor cannot leave game window / display"
+Settings.Input.MouseCameraRotationSpeed,Velocitat de rotació amb el ratolí,Label in settings.
+Settings.Input.MouseWheelCameraZoomSpeed,Velocitat de zoom amb la roda del ratolí,Label of a slider for setting the speed of camera zooming with the mouse wheel.
+Settings.Input.OnScreenKeyboard.Auto,Automàtic,A dropdown item indicating OnScreen Keyboard mode.
+Settings.Input.OnScreenKeyboard.Disabled,Desactivat,A dropdown item indicating OnScreen Keyboard mode.
+Settings.Input.OnScreenKeyboard.Enabled,Activat,A dropdown item indicating OnScreen Keyboard mode.
+Settings.Input.OnscreenKeyboard,Teclat de Steam Big Picture:,Label for dropdown indicating OnScreen Keyboard mode
+Settings.Input.SwapMouseCameraMovementWithRotation,Intercanvia botons de càmera,"When this option is enabled, the middle mouse button is swapped with the right mouse button"
+Settings.Input.UnlockZoom,Zoom il·limitat,Label for setting to unlock zoom limits
+Settings.Language.Change,Canvia,Please keep short
+Settings.Language.Current,Idioma:,
+Settings.Language.Restart,Reinicia ara,Please keep short
+Settings.Language.Warning,Els canvis requereixen reiniciar el joc.,Warning shown when user changes language
+Settings.Screen.AntiAliasing,Antialiàsing,Label for anti-aliasing toggle in settings window
+Settings.Screen.Brightness,Brillantor,Label for overall brightness level setting in screen settings panel
+Settings.Screen.FrameRateLimit,Límit de FPS,Label of a dropdown for setting a FPS limit. It should probably be left unchanged in most languages.
+Settings.Screen.FrameRateLimit.Unlimited,Il·limitat,A dropdown value indicating unlimited frame rate.
 Settings.Screen.FrameRateLimit.Value,{0} FPS,{0} is a number. FPS stands for Frames Per Second.
 Settings.Screen.FullScreen,Pantalla completa,
 Settings.Screen.GraphicsQuality,Qualitat gràfica,
@@ -1760,16 +1760,16 @@ Settings.Screen.ScreenResolution,Resolució de pantalla,
 Settings.Screen.VSync,VSync,Label of a dropdown for choosing a VSync mode.
 Settings.Screen.VSync.0,Off,A dropdown item indicating VSync mode.
 Settings.Screen.VSync.1,On,A dropdown item indicating VSync mode.
-Settings.Screen.VSync.2,Every second frame,A dropdown item indicating VSync mode.
-Settings.Sound.EnvironmentVolume,Environment volume,
-Settings.Sound.Header,Sound,
-Settings.Sound.MasterVolume,Master volume,
-Settings.Sound.MusicVolume,Music volume,
-Settings.Sound.MuteWhenMinimized,Mute audio when minimized or out of focus,
-Settings.Sound.UIVolume,UI volume,
-Settings.Tutorial.DisableTutorial,Disable tutorial,
-Settings.UI.Header,Interface,
-Settings.UI.RunInBackground,Run in background,A settings which controls whether the game should run when minimized or out of focus.
+Settings.Screen.VSync.2,Cada segon fotograma,A dropdown item indicating VSync mode.
+Settings.Sound.EnvironmentVolume,Volum de l'entorn,
+Settings.Sound.Header,So,
+Settings.Sound.MasterVolume,Volum mestre,
+Settings.Sound.MusicVolume,Volum de la música,
+Settings.Sound.MuteWhenMinimized,Silencia l'àudio quan està minimitzat o fora de focus,
+Settings.Sound.UIVolume,Volum de la interfície,
+Settings.Tutorial.DisableTutorial,Desactiva el tutorial,
+Settings.UI.Header,Interfície,
+Settings.UI.RunInBackground,Executa en segon pla,A settings which controls whether the game should run when minimized or out of focus.
 Settings.UI.ShowFps,Mostra FPS,
 Settings.UI.UIScaleFactor,Escala de la interfície,
 Status.Automation.ApiStopped,API aturada.,A warning when the API is stopped.
