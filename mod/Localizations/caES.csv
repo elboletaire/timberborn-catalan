@@ -1517,16 +1517,16 @@ NaturalResource.Cattail.DisplayName,Boga,Plant of a genus Typha
 NaturalResource.Cattail.FlavorDescription,"""Sé tot el que hi ha sobre cues, però què és un gat?"" —Pina","Makes sense only in english, feel free to adapt. Pina is a younger beaver figure that's exploring the world and isn't related to any faction in particular. Pina as a name relates to the pine tree, the translated name shouldn't suggest a gender if possible."
 NaturalResource.ChestnutTree.DisplayName,Castanyer d'Índies,"A Aesculus hippocastanum tree"
 NaturalResource.ChestnutTree.FlavorDescription,"""Tant de bo trepitgis una castanya!"" —L'insult més dur dels castors","Reference to a ""Step on a lego"" meme, chestnuts have prickly, spiky husks"
-NaturalResource.Coffee.DisplayName,Cafeter,Plant that produces coffee beans.
+NaturalResource.Coffee.DisplayName,Planta de cafè,Plant that produces coffee beans.
 NaturalResource.Coffee.FlavorDescription,Els castors antics mastegaven els grans per obtenir energia; els Dents de Ferro van trobar una idea millor preparant-los.,"According to a legend, coffee was discovered thanks to goats eating beans and becoming energectic. Also, ""distilling"" refers to the fact it's a liquid."
 NaturalResource.Corn.DisplayName,Blat de moro,Should be consistent with Good.Corn.DisplayName
 NaturalResource.Corn.FlavorDescription,"""Res de bo surt de deixar els petits jugar al blat de moro."" —Ma' Ngonel","""Children of the corn"" reference. Ma' Ngonel is an almost legendary figure - a beaver grandma, known for her stern hand, cooking skills and respect among both kits and adult beavers. Her name is an inside joke, as our community constantly demands an addition of catapults, mangonels etc."
 NaturalResource.Dandelion.DisplayName,Dent de lleó,A flower used as an antidote ingredient. It looks like a yellow flower dandelion. Must be the same as Good.Dandelion.DisplayName
 NaturalResource.Dandelion.FlavorDescription,"Als contes de fades dels castors, els dents de lleó són coneguts per les seves veus melòdiques.","In Timberborn's lore, fairy tales feature talking plants (similar to human tales being about talking animals). Also, this references ""The Witcher"" - Dandelion (Jaskier) is a bard. Dandelion must be the same as Good.Dandelion.PluralDisplayName"
 NaturalResource.Eggplant.DisplayName,Albergínia,Should be consistent with Good.Eggplant.DisplayName
-NaturalResource.Eggplant.FlavorDescription,No hi ha cap ou a dins.,Do not translate literally if this doesn't make sense in a non-English language.
+NaturalResource.Eggplant.FlavorDescription,No li busquis els ous.,Do not translate literally if this doesn't make sense in a non-English language.
 NaturalResource.Kohlrabi.DisplayName,Colinap,Should be consistent with Good.Kohlrabi.DisplayName
-NaturalResource.Kohlrabi.FlavorDescription,"Tastes like paper, crunches like driftwood.","Not a very tasty food, yet consumed raw in large quantities."
+NaturalResource.Kohlrabi.FlavorDescription,"Té gust de paper i cruix com fusta molla.","Not a very tasty food, yet consumed raw in large quantities."
 NaturalResources.Leftover,(restes),This is shown under NaturalResource.DisplayName. Leftover meaning plant that was cut but not yet collected.
 NaturalResource.Mangrove.DisplayName,Manglar,"A tree that grows in shallow water. This particular name doesn't refer to a specific type, it uses a general name for this group of trees. Produces fruits that can be harvested."
 NaturalResource.Mangrove.FlavorDescription,Les llavors les van portar viatgers de terres llunyanes on els rius no s'assequen mai.,
