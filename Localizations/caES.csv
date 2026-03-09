@@ -603,12 +603,12 @@ Building.ResourceCounter.IncludeInputs,Inclou entrades,Toggle on Resource Counte
 Building.ResourceCounter.MeasurementPercent,Mesura: {0}%,"Fill rate of choosen good, please keep short."
 Building.ResourceCounter.Mode.Percent,Percentatge (%),Mode for resource counter building - percent of storage spaces filled with goods
 Building.ResourceCounter.Mode.Quantity,Quantitat,Mode for Resource Counter building - quantity of goods
-Building.Roof.FlavorDescription,Un sostre més elegant sovint és prou per alimentar la rivalitat amistosa veïnal.,
-Building.Roof1x1.DisplayName,Sostre 1x1,Numbers at the end denote size X by Y
-Building.Roof1x2.DisplayName,Sostre 1x2,Numbers at the end denote size X by Y
-Building.Roof2x2.DisplayName,Sostre 2x2,Numbers at the end denote size X by Y
-Building.Roof2x3.DisplayName,Sostre 2x3,Numbers at the end denote size X by Y
-Building.Roof3x2.DisplayName,Sostre 3x2,Numbers at the end denote size X by Y
+Building.Roof.FlavorDescription,Una teulada més elegant sovint és prou per alimentar la rivalitat amistosa veïnal.,
+Building.Roof1x1.DisplayName,Teulada 1x1,Numbers at the end denote size X by Y
+Building.Roof1x2.DisplayName,Teulada 1x2,Numbers at the end denote size X by Y
+Building.Roof2x2.DisplayName,Teulada 2x2,Numbers at the end denote size X by Y
+Building.Roof2x3.DisplayName,Teulada 2x3,Numbers at the end denote size X by Y
+Building.Roof3x2.DisplayName,Teulada 3x2,Numbers at the end denote size X by Y
 Building.RooftopTerrace.Description,Una terrassa elevada on els castors poden socialitzar i gaudir de les vistes.,
 Building.RooftopTerrace.DisplayName,Terrassa de terrat,
 Building.RooftopTerrace.FlavorDescription,"Un lloc magnífic per xerrar tota la nit, i quines vistes!",
