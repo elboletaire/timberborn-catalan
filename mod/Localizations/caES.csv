@@ -2163,17 +2163,17 @@ WaterInputCoordinates.Limit,Límit: {0},Depth limit of the water input building 
 WaterMover.Unfiltered,Sense filtrar,"Tooltip for a toggle, that decides what kind of fluid should be pumped: unfiltered, water or badwater"
 WaterOpacity.Visibility.Hide,Amaga aigua,Tooltip for button hiding water
 WaterOpacity.Visibility.Show,Mostra aigua,Tooltip for button showing water
-Weather.Badtide,Badtide,Name of toxic hazard season during which all rivers turn into badwater instead of water. Ideally the name should refer to Good.Badwater.DisplayName and follow its pattern. Please read the comment for Good.Badwater.DisplayName for a complete description of what badwater is.
-Weather.BadtideEndedNotification,Badtide ended,Notification that shows up when a badtide season ends. Badtide should be the same as Weather.Badtide.
-Weather.BadtideStartedNotification,Badtide started,Notification that shows up when a badtide season starts. Badtide should be the same as Weather.Badtide.
+Weather.Badtide,Marea tòxica,Name of toxic hazard season during which all rivers turn into badwater instead of water. Ideally the name should refer to Good.Badwater.DisplayName and follow its pattern. Please read the comment for Good.Badwater.DisplayName for a complete description of what badwater is.
+Weather.BadtideEndedNotification,La marea tòxica ha acabat,Notification that shows up when a badtide season ends. Badtide should be the same as Weather.Badtide.
+Weather.BadtideStartedNotification,Ha començat la marea tòxica,Notification that shows up when a badtide season starts. Badtide should be the same as Weather.Badtide.
 Weather.CycleAndDayLong,"Cicle {0}, dia {1}","Example usage: 'Cycle 2, day 5'."
 Weather.CycleAndDayShort,Dia {0}-{1},Example usage: 'Day 2-5'.
 Weather.CycleBegins,Comença el cicle {0},"Shown as a message when new cycle begins, {0} stands for cycle number, example usage: 'Cycle 4 begins'."
 Weather.Drought,Sequera,
 Weather.DroughtEndedNotification,Sequera acabada,A notification that a drought has ended.
 Weather.DroughtStartedNotification,Comença la sequera,A notification that a drought has begun.
-Weather.Notification.BadtideApproaching,Badtide approaching,Tooltip of weather panel shown when a badtide season is approaching. Badtide should be the same as Weather.Badtide.
-Weather.Notification.BadtideInProgress,Badtide in progress,Tooltip of weather panel shown when a badtide season is in progress. Badtide should be the same as Weather.Badtide.
+Weather.Notification.BadtideApproaching,S'apropa una marea tòxica,Tooltip of weather panel shown when a badtide season is approaching. Badtide should be the same as Weather.Badtide.
+Weather.Notification.BadtideInProgress,Marea tòxica en curs,Tooltip of weather panel shown when a badtide season is in progress. Badtide should be the same as Weather.Badtide.
 Weather.Notification.DroughtApproaching,Sequera apropant-se,Tooltip of weather panel shown when a drought season is approaching. Drought should be the same as Weather.Drought.
 Weather.Notification.DroughtInProgress,Sequera en curs,Tooltip of weather panel shown when a drought season is in progress. Drought should be the same as Weather.Drought.
 Weather.Temperate,Clima temperat,
@@ -2217,9 +2217,9 @@ Work.Workers,Treballadors: {0},{0} stands for number of workers
 Work.WorkersLabel,Treballadors,Label before number of workers
 Work.WorkingHoursTooltip,Horari laboral,
 Work.Workplace.DisplayName,Lloc de treball,"Header of a section where various aspects of a workplace can be changed (working priority, number of workers). Please keep short."
-Work.WorkplaceUnlock.CantUnlock,"Can't unlock this workplace for bots, not enough Science Points.",Prompt when the player doesn't have enough science points to unlock a workplace for bots. Bots should be the same as Bot.PluralDisplayName.
-Work.WorkplaceUnlock.Prompt,Are you sure you want to unlock this workplace for bots? It costs {0} Science Points.,"{0} stands for amount. Prompt when the  player presses to unlock a workplace for bots. Science Points must be the same as Science.SciencePoints, Bots as Bot.PluralDisplayName"
-Work.WorkplaceUnlock.Tooltip,Unlock this workplace for bots.,Shown on a blocked workplace's tooltip. Bots should be the same as Bot.PluralDisplayName.
+Work.WorkplaceUnlock.CantUnlock,"No es pot desbloquejar aquest lloc de treball per a bots, no hi ha prou Punts de ciència.",Prompt when the player doesn't have enough science points to unlock a workplace for bots. Bots should be the same as Bot.PluralDisplayName.
+Work.WorkplaceUnlock.Prompt,"Segur que vols desbloquejar aquest lloc de treball per a bots? Costa {0} Punts de ciència.","{0} stands for amount. Prompt when the  player presses to unlock a workplace for bots. Science Points must be the same as Science.SciencePoints, Bots as Bot.PluralDisplayName"
+Work.WorkplaceUnlock.Tooltip,Desbloqueja aquest lloc de treball per a bots.,Shown on a blocked workplace's tooltip. Bots should be the same as Bot.PluralDisplayName.
 Zipline.AddConnection,Afegir connexió,Tooltip text for button with plus icon adding a connection between two zipline towers or stations.
 Zipline.BlockedWarning,Línia obstruïda!,Error message when zipline path is obstructed
 Zipline.Connections,Connexions:,A header above icon representation of connections between zipline towers or stations.
