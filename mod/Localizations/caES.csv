@@ -702,8 +702,8 @@ Building.SuspensionBridge3x1.DisplayName,Pont penjant 3x1,Numbers at the end den
 Building.SuspensionBridge4x1.DisplayName,Pont penjant 4x1,Numbers at the end denote size X by Y
 Building.SuspensionBridge5x1.DisplayName,Pont penjant 5x1,Numbers at the end denote size X by Y
 Building.SuspensionBridge6x1.DisplayName,Pont penjant 6x1,Numbers at the end denote size X by Y
-Building.SwimmingPoll.FlavorDescription,"""That's a really good time but we should work on your tailstroke!"" —Pina","Backstroke is a swimming style, but beavers also have tails. Pina is a younger beaver figure that's exploring the world and isn't related to any faction in particular. Pina as a name relates to the pine tree, the translated name shouldn't suggest a gender if possible."
-Building.SwimmingPool.Description,Cordoned lanes for providing a submerged full-body workout without interference.,
+Building.SwimmingPoll.FlavorDescription,"""Ens ho estem passant molt bé, però hauríem de treballar aquest cop de cua!"" —Pina","Backstroke is a swimming style, but beavers also have tails. Pina is a younger beaver figure that's exploring the world and isn't related to any faction in particular. Pina as a name relates to the pine tree, the translated name shouldn't suggest a gender if possible."
+Building.SwimmingPool.Description,Carrils delimitats per fer exercici complet sota l'aigua sense interferències.,
 Building.SwimmingPool.DisplayName,Piscina,
 Building.TappersShack.Description,Dona feina a resiners que recullen saba i xarop dels arbres.,
 Building.TappersShack.DisplayName,Cabana del resinador,"A shack where workers tap trees to gather sap and syrups, similar to sugar shacks in Canada."
@@ -715,9 +715,9 @@ Building.TerrainBlock.Description,Un bloc artificial de terreny. L'ordre de cons
 Building.TerrainBlock.DisplayName,Bloc de terreny,A 1x1x1 chunk of terrain
 Building.Thorns.Description,Un obstacle impenetrable que també bloqueja el reg i la contaminació. És difícil de demolir i pot ferir qui ho intenti.,
 Building.Thorns.DisplayName,Espines,
-Building.Thorns.FlavorDescription,"It's no nature's bounty, only its anger.",
+Building.Thorns.FlavorDescription,"No és generositat de la natura, sinó la seva ira.",
 Building.Timer.Description,Aplica processament temporal al seu senyal d'entrada.,
-Building.Timer.DisplayName,Timer,The name of a building which sends automation signals based on time delays.
+Building.Timer.DisplayName,Temporitzador,The name of a building which sends automation signals based on time delays.
 Building.Timer.IntervalType.Days,Dies,Dropdown option that makes the Timer to work using days as time unit.
 Building.Timer.IntervalType.Hours,Hores,Dropdown option that makes the Timer to work using hours as time unit.
 Building.Timer.IntervalType.Ticks,Ticks,Dropdown option that makes the Timer to work using `clock ticks` as time unit. It should be translated the same way as in Buildings.Sequential and KeyBinding.TickOnce
@@ -732,7 +732,7 @@ Building.Timer.Mode.Pulse.Description,Encès durant <YellowHighlight>{1}</Yellow
 Building.Timer.TimeA,T1,This must be at most two characters. Label for a time setting in Timer building in which users can enter number of hours or days. It's likely that you want to keep T1 and T2 in many languages because those are internationally used in electronics and schematics.
 Building.Timer.TimeB,T2,This must be at most two characters. Label for a time setting in Timer building in which users can enter number of hours or days. It's likely that you want to keep T1 and T2 in many languages because those are internationally used in electronics and schematics.
 Building.TributeToIngenuity.DisplayName,Homenatge a l'enginy,Name of a monument
-Building.TributeToIngenuity.FlavorDescription,"""Of course it has a purpose. It impresses."" —Ol' Kazko","Ol' Kazko is a legendary forefather of modern beavers, famous inventor, pioneer of rapid industrialization."
+Building.TributeToIngenuity.FlavorDescription,"""És clar que té un propòsit. Impressiona."" —Ol' Kazko","Ol' Kazko is a legendary forefather of modern beavers, famous inventor, pioneer of rapid industrialization."
 Building.TripleDynamite.DisplayName,Dinamita triple,Dynamite that makes 3 blocks deep hole
 Building.TripleFloodgate.DisplayName,Comporta triple,
 Building.TripleFloodgate.FlavorDescription,Més alta i l'aigua ja seria massa pesada per contenir-la.,
@@ -741,7 +741,7 @@ Building.TripleLodge.DisplayName,Casa triple,
 Building.TripleLodge.FlavorDescription,"""Creixeu i multipliqueu-vos"" és una dita que els Cuesfusta es prenen seriosament.",Go Forth and multiply is a biblical quote.
 Building.TriplePlatform.DisplayName,Plataforma triple,Triple as triple the height of a normal platform
 Building.TriplePlatform.FlavorDescription,Rosegar pals està estrictament prohibit!,
-Building.Tubeway.Description,"Un mitjà de transport castor ràpid, encara que estret.",
+Building.Tubeway.Description,"Un mitjà de transport ràpid per als castors, tot i que estret.",
 Building.Tubeway.DisplayName,Tubovia,"Tubeways are used as a network of large pipes for faster transportation around the map. Departure and arrival  happens in Building.TubewayStation.DisplayName, so they should be named similarly."
 Building.Tubeway.FlavorDescription,El xoc frontal de dos castors és citat com a origen d'algunes de les invencions més esbojarrades dels Dents de Ferro.,Hitting your head can be a source of crazy ideas in cartoons. Iron Teeth should be the same as Faction.IronTeeth.DisplayName
 Building.TubewayStation.Description,Una entrada i sortida de la xarxa de tubovies.,
@@ -779,18 +779,18 @@ Building.WaterSeep.Description,Una font d'aigua amb pressió limitada.,
 Building.WaterSeep.DisplayName,Filtració d'aigua,"A building that allows water to seep through, creating a natural water source."
 Building.WaterSeep.FlavorDescription,"Limited pressure, unlimited possibilities.",
 Building.WaterSource.DisplayName,Font d'aigua,
-Building.WaterSource.FlavorDescription,"""May your river always flow."" —Beaver greeting",
+Building.WaterSource.FlavorDescription,"""Que el teu riu sempre flueixi."" —salutació de castor",
 Building.WaterWheel.Description,Produeix energia; s'ha de col·locar en aigua corrent al llarg de la riba d'un riu.,Power is not an electrical but mechanical/kinetic energy.
 Building.WaterWheel.DisplayName,Roda d'aigua,
-Building.WaterWheel.FlavorDescription,Ol' Kazko's opus magnum.,"Ol' Kazko is a legendary forefather of modern beavers, famous inventor, pioneer of rapid industrialization."
+Building.WaterWheel.FlavorDescription,L'obra mestra d'Ol' Kazko.,"Ol' Kazko is a legendary forefather of modern beavers, famous inventor, pioneer of rapid industrialization."
 Building.WeatherStation.Description,Envia un senyal segons el temps meteorològic.,
 Building.WeatherStation.DisplayName,Estació meteorològica,A building which checks the current weather condition (does not make forecasts).
 Building.WeatherStation.EarlyActivation,Activa abans,A label for a checkbox which makes the weather station activate a specified number of hours before the season starts
-Building.WeatherStation.Header,Active during:,"Header for weather station building settings. After this header, there are checkboxes for each weather type that can be enabled or disabled."
+Building.WeatherStation.Header,Actiu durant:,"Header for weather station building settings. After this header, there are checkboxes for each weather type that can be enabled or disabled."
 Building.Weathervane.Description,Un penell petit que indica direcció i força del vent.,
 Building.Weathervane.DisplayName,Penell,A decoration that turns towards the wind
 Building.Weathervane.FlavorDescription,"""Si tinc raó, això podria volar si hi fixes un motor i un parell d'ales."" —Pina","Referencing the Wright brothers and their first-ever aircraft. Pina is a younger beaver figure that's exploring the world and isn't related to any faction in particular. Pina as a name relates to the pine tree, the translated name shouldn't suggest a gender if possible."
-Building.Weathervane.WindStrength,Wind strength: {0}%,This tells how strong the wind is in percent between 0 and 100
+Building.Weathervane.WindStrength,Força del vent: {0}%,This tells how strong the wind is in percent between 0 and 100
 Building.WindTunnel.Description,Una màquina capaç d'aixecar castors del terra per a experiències extremes.,
 Building.WindTunnel.DisplayName,Túnel de vent,
 Building.WindTunnel.FlavorDescription,"""Crec que puc volar. Només em cal calcular la velocitat d'escapament."" —Ol' Kazko","Ol' Kazko is a legendary forefather of modern beavers, famous inventor, pioneer of rapid industrialization."
@@ -799,16 +799,16 @@ Building.WindTurbine.DisplayName,Aerogenerador,
 Building.WindTurbine.FlavorDescription,"""Tot el que som és serradures al vent!"" —cançó dels Cuesfusta","Reference to ""Dust in the Wind"" by Kansas."
 Building.WoodFence.Description,Una tanca decorativa feta de troncs.,
 Building.WoodFence.DisplayName,Tanca de fusta,
-Building.WoodFence.FlavorDescription,It's like a dam but for beavers.,
+Building.WoodFence.FlavorDescription,És com una presa però per a castors.,
 Building.WoodWorkshop.Description,Enforteix taulons impregnant-los amb resina.,It produces treated / impregnated planks. The resin used is a pine resin.
 Building.WoodWorkshop.DisplayName,Taller de fusta,It produces treated / impregnated planks. Do NOT use the same term as lumber mill.
-Building.WoodWorkshop.FlavorDescription,Why are treated planks so strong? Because resins.,"'Because resins' sounds like 'Because reasons', wordplay on an older meme."
+Building.WoodWorkshop.FlavorDescription,Per què els taulons tractats són tan resistents? Because resins.,"'Because resins' sounds like 'Because reasons', wordplay on an older meme."
 Building.ZiplineBeam.Description,Una biga horitzontal que sosté cables de tirolina entre estacions.,
 Building.ZiplineBeam.DisplayName,Biga de tirolina,"A horizontal pole with an anchor point at its end that serves as a base for connecting zipline networks, which are used by beavers to travel faster around the map. Departure and arrival happens in Building.ZiplineStation.DisplayName, so they should be named similarly."
-Building.ZiplineBeam.FlavorDescription,We must construct additional beams. —Pina,"Reference to the Starcraft warning ""We must construct additional pylons"", but a subversion of expectations since it's not on the pylon building."
+Building.ZiplineBeam.FlavorDescription,"Hem de construir més bigues. —Pina","Reference to the Starcraft warning ""We must construct additional pylons"", but a subversion of expectations since it's not on the pylon building."
 Building.ZiplinePylon.Description,Una torre que sosté cables de tirolina entre estacions.,
 Building.ZiplinePylon.DisplayName,Piló de tirolina,"A high pole that serves as a base for connecting zipline networks, which are used by beavers to travel faster around the map. Departure and arrival happens in Building.ZiplineStation.DisplayName, so they should be named similarly."
-Building.ZiplinePylon.FlavorDescription,It's common courtesy to smack each other's tail when passing another beaver.,Beaver version of a high five
+Building.ZiplinePylon.FlavorDescription,"És de bona educació picar-se la cua quan et creues amb un altre castor.","Beaver version of a high five"
 Building.ZiplineStation.Description,Un mode de desplaçament ràpid i emocionant.,
 Building.ZiplineStation.DisplayName,Estació de tirolina,"A station used for boarding zipline networks. They can be extended further using Building.ZiplinePylon.DisplayName, so they should be named similarly."
 Building.ZiplineStation.FlavorDescription,"""Per pujar-hi, la teva cua ha de fer aquesta llargada."" —Cartell de l'entrada","Reference to signs placed at amusement parks in front of the rides, but requiring tail length instead of height."
@@ -823,7 +823,7 @@ Buildings.ContinuousTerrainConstraint,Requereix terreny continu fins al fons del
 Buildings.DeletePrompt,Segur que vols demolir l'edifici seleccionat? No ho podràs desfer.,
 Buildings.EntranceBlocked,Entrada bloquejada.,"A notification for when a building entrance is blocked, keep it short"
 Buildings.GroundOnly,<YellowHighlight>Només terra:</YellowHighlight> S'ha de construir al terra.,
-Buildings.InfiniteDepth,infinite.,Used as an infinite depth description in Buildings.UndergroundDepth key. Please keep the dot if it's used in other similar keys e.g. Buildings.TopConstraint
+Buildings.InfiniteDepth,infinit.,Used as an infinite depth description in Buildings.UndergroundDepth key. Please keep the dot if it's used in other similar keys e.g. Buildings.TopConstraint
 Buildings.InvalidTerrainLevel,Això no es pot construir al fons del mapa.,An alert for when someone tries to build at the lowest layer of the map.
 Buildings.MissingGroundBelow,Falta terra a sota.,Warning shown to player when trying to place a building without ground underneath.
 Buildings.PipeObstructed,Tub obstruït.,Warning that will be shown to player when Water Pump Pipe has zero lenght.
@@ -838,9 +838,9 @@ Buildings.WaterAccess,<YellowHighlight>Depèn d'aigua:</YellowHighlight> Requere
 Buildings.Wonder,<YellowHighlight>Meravella:</YellowHighlight> El cim de l'enginyeria castora.,Wonder is a keyword. Shown after selecting a wonder type building.
 Button.Browse,Explorar,Label of a button that opens a file explorer for a specific folder. Please keep short.
 Button.Refresh,Refresca,Label of a button that refreshes/reloads custom files from disk. Please keep short.
-Camera.StateSaved,Camera state saved,"Notification on top of the window when camera state(location, rotation) is saved by player."
-CancelPlantingTool.Description,Use it to unmark planting areas.,Description of a tool that removes fields.
-CancelPlantingTool.Title,Clear planting area,Tool that removes fields so the beavers won't plant there.
+Camera.StateSaved,Estat de la càmera desat,"Notification on top of the window when camera state(location, rotation) is saved by player."
+CancelPlantingTool.Description,"Utilitza aquesta eina per desmarcar zones de plantació.",Description of a tool that removes fields.
+CancelPlantingTool.Title,Esborra zona de plantació,Tool that removes fields so the beavers won't plant there.
 Carrying.Carry,Transportant: {0} ({1} de {2} kg),{0} stands for Good.DisplayName {1} stands for carried good weight {2} stands for beaver lifting capacity. Tells player what the beaver is carrying and how much it weighs in comparison to the beaver's strength
 Carrying.Nothing,res,When beaver is carrying nothing.
 Condition.DisplayName,Condició,"Bot equivalent of wellbeing (how good they are taken care of, how good their mechanical condition is)"
@@ -964,7 +964,7 @@ Explosions.BlownInExplosionMessage,{0} ha explotat.,{0} stands for character nam
 Faction.Folktails.Description,"Relaxats però treballadors, els Cuesfusta són pagesos experts. Respecten la natura i ella els recompensa amb abundància.
 El seu lema: <i>Confort, menjar i fusta resistent.</i>",Description of a beaver faction
 Faction.Folktails.DisplayName,Cuesfusta,Name of a faction
-Faction.Folktails.GameOver.Flavor,"When you fail to use nature's gifts, it takes them back.",Flavor text of the game over panel
+Faction.Folktails.GameOver.Flavor,"Quan no aprofites els dons de la natura, la natura els recupera.",Flavor text of the game over panel
 Faction.Folktails.GameOver.Message,Els teus Cuesfusta han patit el trist destí dels seus predecessors humans. Aquest és el final.,Text of the game over panel
 Faction.Folktails.WonderCompletionFlavor,"Després d'acumular gran riquesa i coneixement, els teus castors han compartit els fruits del seu treball amb el planeta malmès. Encara queda molt per fer, però la Terra podria florir de nou.",Flavor text shown when the player has mastered a map with the Folktails faction. Mastery means building and activating a Wonder.
 Faction.Folktails.WonderCompletionMessage,Enhorabona! Has dominat l'estil orientat a la natura dels Cuesfusta i has utilitzat els recursos d'aquest mapa per construir la meravella de la facció.,A message that is shown when the player has mastered a map with the Folktails faction. Mastery means building and activating a Wonder.
