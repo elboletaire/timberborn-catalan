@@ -4,7 +4,7 @@
   "Visibility": "Public",
   "UpdateDescription": false,
   "UpdateVisibility": false,
-  "UpdatePreview": true,
+  "UpdatePreview": false,
   "UpdateTags": false,
   "Tags": []
 }
