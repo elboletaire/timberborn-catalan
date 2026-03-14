@@ -2172,9 +2172,9 @@ Weather.CycleBegins,Comença el cicle {0},"Shown as a message when new cycle beg
 Weather.Drought,Sequera,
 Weather.DroughtEndedNotification,Sequera acabada,A notification that a drought has ended.
 Weather.DroughtStartedNotification,Comença la sequera,A notification that a drought has begun.
-Weather.Notification.BadtideApproaching,S'apropa una marea tòxica,Tooltip of weather panel shown when a badtide season is approaching. Badtide should be the same as Weather.Badtide.
+Weather.Notification.BadtideApproaching,Marea tòxica en camí,Tooltip of weather panel shown when a badtide season is approaching. Badtide should be the same as Weather.Badtide.
 Weather.Notification.BadtideInProgress,Marea tòxica en curs,Tooltip of weather panel shown when a badtide season is in progress. Badtide should be the same as Weather.Badtide.
-Weather.Notification.DroughtApproaching,Sequera apropant-se,Tooltip of weather panel shown when a drought season is approaching. Drought should be the same as Weather.Drought.
+Weather.Notification.DroughtApproaching,Sequera en camí,Tooltip of weather panel shown when a drought season is approaching. Drought should be the same as Weather.Drought.
 Weather.Notification.DroughtInProgress,Sequera en curs,Tooltip of weather panel shown when a drought season is in progress. Drought should be the same as Weather.Drought.
 Weather.Temperate,Clima temperat,
 Wellbeing.AverageWellbeing,Mitjana de benestar:,Please keep short. Well-being is how good the beavers feel in general. Could also be welfare or prosperity
