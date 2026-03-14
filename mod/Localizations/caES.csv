@@ -193,7 +193,7 @@ Building.ChargingStation.Description,Un lloc on els bots venen a recarregar-se.,
 Building.ChargingStation.DisplayName,Estació de càrrega,A mechanically powered building where bots come to recharge
 Building.ChargingStation.FlavorDescription,No utilitzar amb dispositius que no siguin Ferrobot.,"Referring the annoying ""a different connector for each device"" trend in IT. Ironbot must be the same as Bot.DisplayName.IronTeeth"
 Building.Chronometer.Description,Envia un senyal basat en l'hora del dia.,
-Building.Chronometer.DisplayName,Cronòmetre,The name of a building which sends automation signals based on time.
+Building.Chronometer.DisplayName,Rellotge,The name of a building which sends automation signals based on time.
 Building.Chronometer.EndTime,Final: {0},"{0} is a time in hours with h suffix, e.g. 1.2h"
 Building.Chronometer.Mode.NonWorkingHours,Hores no laborals,"One of the modes of the Chronometer, that makes it active during non-working hours"
 Building.Chronometer.Mode.TimeRange,Interval de temps,"One of the modes of the Chronometer, that lets player select custom start and end time"
